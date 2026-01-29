@@ -1,4 +1,4 @@
-package com.dishank;
+package com.dishank.model;
 
 public enum ItemStatus {
     IN_STOCK,
