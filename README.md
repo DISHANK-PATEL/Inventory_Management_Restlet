@@ -7,6 +7,9 @@ The application uses a Restlet server for handling HTTP requests and MySQL for p
 Structured logging is enabled using SLF4J and Logback.
 It is designed to demonstrate clean separation of concerns and scalable backend design.
 
+## Project Architecture
+<img width="1669" height="885" alt="image" src="https://github.com/user-attachments/assets/f992abc3-3a59-410a-bdc5-40a8f8acc473" />
+
 ## Features
 
 - Create new inventory items
@@ -42,10 +45,7 @@ It is designed to demonstrate clean separation of concerns and scalable backend 
 - `404 Not Found` – Item does not exist
 - `500 Internal Server Error` – Unexpected server failure
 
-## Project Architecture
-<img width="1669" height="885" alt="image" src="https://github.com/user-attachments/assets/f992abc3-3a59-410a-bdc5-40a8f8acc473" />
-
-#### Demo Screenshots
+## Demo Screenshots
 
 <img width="1312" height="544" alt="image" src="https://github.com/user-attachments/assets/fefd3e8a-0553-4555-bad2-c96059e4cfce" />
 <img width="632" height="793" alt="image" src="https://github.com/user-attachments/assets/ccfc8256-7eaf-431e-853c-962a480f0011" />
